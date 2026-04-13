@@ -7,5 +7,6 @@
 <img width="935" height="140" alt="Screenshot 2026-04-13 at 22 42 44" src="https://github.com/user-attachments/assets/afd67617-11c7-4f04-a642-45abe68b708d" />
 
 Задание 2
+Cron и исполняемый файл в репозитории
 
 <img width="865" height="525" alt="Screenshot 2026-04-13 at 23 30 17" src="https://github.com/user-attachments/assets/ece2017f-5a81-428b-a21f-d93398aa8ffa" />
